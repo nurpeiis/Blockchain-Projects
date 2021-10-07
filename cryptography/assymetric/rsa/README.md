@@ -21,4 +21,4 @@ To encrypt a number you multiply it by itself `pub` times, making sure to wrap a
 
 ## Sources
 
-- [Amazing blog](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/)
+- [Amazing blog](https://blog.cloudflare.com/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/w)
