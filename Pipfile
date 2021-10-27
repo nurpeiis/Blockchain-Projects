@@ -5,8 +5,13 @@ name = "pypi"
 
 [packages]
 web3 = "*"
+py-solc-x = "*"
 
 [dev-packages]
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
+
+[pipenv]
+allow_prereleases = true
